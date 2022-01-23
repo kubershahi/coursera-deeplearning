@@ -1,2 +1,2 @@
-# coursera-deeplearning
-Coursera: Deeplearning specialization
+
+Solutions for Deeplearning Specialization by Andrew Ng.
